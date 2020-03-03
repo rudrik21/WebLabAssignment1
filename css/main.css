@@ -21,6 +21,10 @@ body, p, a, ul, li{
     /* background-color: #99dbe2; */
 }
 
+.site-nav h1 a{
+    color: var(--color-primary-light);
+}
+
 body{
     background: #07083e;
     margin: 0;
